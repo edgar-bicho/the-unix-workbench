@@ -1,4 +1,5 @@
 # Guest Book
+- Edgar Bicho
 - Kanye Stephen
 - Mark Havens
 - Sean Kross
